@@ -190,4 +190,4 @@ public class TaskController {
 
 8. Обновление несуществующей задачи:
 
-![PUT-2](image/8.jpeg)
+![PUT-2](image/8.jpg)
