@@ -1,0 +1,14 @@
+spring.application.name: spring-pract
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:taskdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password: password
+  jpa:
+    hibernate:
+      ddl-auto: update
+  h2:
+    console:
+      enabled: true
