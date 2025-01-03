@@ -6,7 +6,7 @@
 
 #### 1. Создание проекта
 Создала проект с помощью Spring Initializr
-![проект](image/9.jpeg)
+![проект](image/9.jpg)
 
 #### 2. Настройка базы данных
 Настраиваем application.yml: 
@@ -164,29 +164,29 @@ public class TaskController {
 
 * Откройте консоль H2 по адресу /h2-console для проверки данных и выполним запрос:
   
-![test](image/1.jpeg)
+![test](image/1.jpg)
 
 * Далее воспользуемся Postman для тестирования CRUD операций:
 
 1. Создадим первую задачу:
 
-![POST-1](image/2.jpeg)
+![POST-1](image/2.jpg)
 
 2. Получение списка задач:
 
-![GET-1](image/3.jpeg)
+![GET-1](image/3.jpg)
 
 3. Созданим вторую задачи:
 
-![POST-2](image/4.jpeg)
-![Console](image/5.jpeg)
+![POST-2](image/4.jpg)
+![Console](image/5.jpg)
 4. Обновление существующей задачи:
 
-![PUT-1](image/6.jpeg)
+![PUT-1](image/6.jpg)
 
 5. Удаление задачи:
 
-![DELETE](image/7.jpeg)
+![DELETE](image/7.jpg)
 
 8. Обновление несуществующей задачи:
 
